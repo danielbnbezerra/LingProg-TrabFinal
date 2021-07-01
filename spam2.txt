@@ -1,0 +1,6 @@
+To: danielbezerra@poli.ufrj.br
+From: microsoft@some-domain.com
+Subject: Verify Your Account
+BodyText:
+You must update it immediately or your account will be closed    
+Go to http://bit.ly/microsoft-team234 to update.

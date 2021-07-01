@@ -1,0 +1,6 @@
+To: danielbezerra@poli.ufrj.br
+From: clearly-its-coinbase@some-domain.com
+Subject: Transaction Confirmation
+BodyText:
+(Coinbase) Amount received 2.2 Bitcoin BTC ($78,000 USD) 
+Please confirm transaction: http://bit.do/Coinbase1234

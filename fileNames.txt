@@ -1,0 +1,6 @@
+not-spam1.txt
+not-spam2.txt
+not-spam3.txt
+spam1.txt
+spam2.txt
+spam3.txt
